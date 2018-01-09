@@ -8,7 +8,7 @@ A tool that automates: a. the creation of an MS SQL database for storage of abst
 
 **Who Would Use This?** 
 
-We think this tool is particularly useful to those working domains of applied public health / public policy research, policymaking, community outreach, and program design and implementation.  
+We think this tool is particularly useful to those working domains of applied public health / public policy research, policymaking, community outreach, and program design and implementation. But really, it's for anyone who needs to make sense and use of a large evidence base, but doesn't have much time. 
 
 **What Can This Tool Do?** 
 
