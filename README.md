@@ -16,7 +16,7 @@ The idea of this tool is to expand your view of the published peer reviewed lite
 
 **How Can I get Started?**  
 
-Step through the Wiki pages in this repo and follow the instructions.  It's easy! Note that we have currently uploaded code to automate the creation of an MS SQL database.  You will need to have access and write priveleges to such a database before you begin. We will post the code and instructions for Access database design in the near future. 
+Step through the wiki pages in this repo and follow the instructions.  It's easy! Note that we have currently uploaded code to automate the creation of an MS SQL database.  You will need to have access and write priveleges to such a database before you begin. We will post the code and instructions for Access database design in the near future. 
 
 **Then What?** 
 
